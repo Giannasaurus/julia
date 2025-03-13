@@ -1,0 +1,14 @@
+# This is supposed to be a sankey diagram in mermaid.
+  What happened was:
+  Following Mermaid's syntax on Sankey [[https://mermaid.js.org/syntax/sankey.html]],
+  I wanted to experiment and uploaded the code on VS Code.
+  I tried saving it, apparently Windows doesn't have the .mmd extension on default.
+  The file extension suddenly changed to .jl, probably to accommodate the incompatibility of my file.
+  (Julia rabbit hole)
+
+## What I learned:
+  * julia repl
+  * cd("path\to\julia\file")
+  * include("julia-file.jl")
+  * installing packages
+  * csv stuff
