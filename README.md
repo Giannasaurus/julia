@@ -14,7 +14,7 @@ julia>
 ```
 locate file:
 > [!TIP]
-> right-click anywhere to paste text
+> right-click anywhere to paste text  
 > to enable: title bar, right-click > properties > QuickEdit Mode
 ```
 julia> cd("path\to\julia\file")
