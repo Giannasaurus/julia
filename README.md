@@ -21,13 +21,15 @@ julia> import Pkg; Pkg.add("DataFrames")
 ```
 julia> import Pkg; Pkg.add("CSV")
 ```
+> [!NOTE]
+> you can omit `import Pkg;` in the second package
 locate file:
-> [!TIP]
-> right-click anywhere to paste text  
-> to enable: title bar, right-click > properties > QuickEdit Mode
 ```
 julia> cd("path\to\julia\file")
 ```
+> [!TIP]
+> right-click anywhere to paste text  
+> to enable: title bar, right-click > properties > QuickEdit Mode
 run file:
 ```
 julia> include("julia-file.jl");
