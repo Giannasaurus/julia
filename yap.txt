@@ -1,0 +1,8 @@
+i learned:
+- julia repl
+- cd("path\to\julia\file")
+- include("julia-file.jl")
+- installing packages
+- csv stuff
+
+why am i doing this
