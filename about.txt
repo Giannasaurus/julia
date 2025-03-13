@@ -3,7 +3,7 @@
   Following Mermaid's syntax on Sankey [[https://mermaid.js.org/syntax/sankey.html]],
   I wanted to experiment and uploaded the code on VS Code.
   I tried saving it, apparently Windows doesn't have the .mmd extension on default.
-  The file extension suddenly changed to .jl, probably to accommodate the incompatibility of my file.
+  The file extension suddenly changed to .jl, which was probably the most compatible for my file.
   (Julia rabbit hole)
 
 ## What I learned:
