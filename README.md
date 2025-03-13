@@ -4,7 +4,9 @@
 HERE'S MY FIRST DATA FRAME IN JULIA!!!!
 
 # how to run
-make sure to have julia installed and added to path .... not even explaining dis man....
+first, put one leg forward and step onto the ground, do the same for other leg
+
+then make sure to have julia installed and added to path .... not even explaining dis man....
 
 julia in cmd:
 ```
