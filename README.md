@@ -13,7 +13,7 @@ julia repl:
 julia>
 ```
 locate file:
-> [!TIP}
+> [!TIP]
 > right-click anywhere to paste text
 > to enable: title bar, right-click > properties > QuickEdit Mode
 ```
