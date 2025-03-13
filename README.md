@@ -22,7 +22,7 @@ julia> import Pkg; Pkg.add("DataFrames")
 julia> import Pkg; Pkg.add("CSV")
 ```
 > [!NOTE]
-> you can omit `import Pkg;` in the second package\
+> you can omit `import Pkg;` in the second package
 
 locate file:
 ```
@@ -30,7 +30,7 @@ julia> cd("path\to\julia\file")
 ```
 > [!TIP]
 > right-click anywhere to paste text  
-> to enable: title bar, right-click > properties > QuickEdit Mode\
+> to enable: title bar, right-click > properties > QuickEdit Mode
 
 run file:
 ```
