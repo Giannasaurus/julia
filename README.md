@@ -12,6 +12,13 @@ julia repl:
 ```
 julia>
 ```
+install packages:
+```
+julia> import Pkg; Pkg.add("DataFrames")
+```
+```
+julia> import Pkg; Pkg.add("CSV")
+```
 locate file:
 > [!TIP]
 > right-click anywhere to paste text  
