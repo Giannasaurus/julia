@@ -36,5 +36,6 @@ julia> cd("path\to\julia\file")
 
 run file:
 ```
-julia> include("julia-file.jl");
+julia> include("julia-file.jl")
 ```
+enjoy
